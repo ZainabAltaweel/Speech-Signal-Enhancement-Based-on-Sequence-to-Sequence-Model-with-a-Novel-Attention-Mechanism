@@ -228,7 +228,7 @@ tqdm==4.36.1
 traitlets==4.3.2
 typing==3.6.4
 unicodecsv==0.14.1
-urllib3==1.22
+urllib3==1.26.5
 utils==0.9.0
 virtualenv==20.0.18
 wcwidth==0.1.7
